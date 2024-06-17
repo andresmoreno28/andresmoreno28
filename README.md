@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-- &#128187 Web developer
+- :desktop_computer: Web developer
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,sass,php,laravel,mysql,postgres,git,github,npm,vscode,)](https://skillicons.dev)
 
 
