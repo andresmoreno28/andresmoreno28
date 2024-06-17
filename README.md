@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 ## About me
 
 - :desktop_computer: Web developer <br>
-- Some of my skills: [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,sass,php,laravel,mysql,postgres,git,github,npm,vscode,)](https://skillicons.dev)
+- :video_game: Videogames lover
+- :man_technologist: Tech freak
+
+## Some of my skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,sass,php,laravel,mysql,postgres,git,github,npm,vscode,)](https://skillicons.dev)
 
 
 <br>
