@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **andresmoreno28/andresmoreno28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<h1 align="center">Hi I'm <a href="https://aristi.dev">Andrés Moreno</a> 👋</h1>
+<h1 align="center">Hi I'm <a href="https://www.linkedin.com/in/web-developer-programmer/">Andrés Moreno</a> 👋</h1>
 </div>
 <div align="center"><a href="https://ibb.co/M1BZ3WD"><img src="https://i.ibb.co/NNTtHQ6/Andr-s-Moreno.png" alt="Andr-s-Moreno" border="0"></a></center><br>
 <a href="https://www.linkedin.com/in/web-developer-programmer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></div>
@@ -23,8 +21,8 @@ Here are some ideas to get you started:
 
 ## About me
 
-- :desktop_computer: Web developer
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,sass,php,laravel,mysql,postgres,git,github,npm,vscode,)](https://skillicons.dev)
+- :desktop_computer: Web developer <br>
+- Some of my skills: [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,sass,php,laravel,mysql,postgres,git,github,npm,vscode,)](https://skillicons.dev)
 
 
 <br>
