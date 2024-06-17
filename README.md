@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <div align="center">
 <h1 align="center">Hi I'm <a href="https://aristi.dev">Andrés Moreno</a> 👋</h1>
 </div>
-<center><a href="https://ibb.co/M1BZ3WD"><img src="https://i.ibb.co/NNTtHQ6/Andr-s-Moreno.png" alt="Andr-s-Moreno" border="0"></a></center>
-<a href="https://www.linkedin.com/in/web-developer-programmer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div align="center"><a href="https://ibb.co/M1BZ3WD"><img src="https://i.ibb.co/NNTtHQ6/Andr-s-Moreno.png" alt="Andr-s-Moreno" border="0"></a></center><br>
+<a href="https://www.linkedin.com/in/web-developer-programmer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></div>
 <br>
 
 ## About me
